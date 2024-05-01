@@ -29,7 +29,7 @@ Welcome to the "ABC Call Volume Trend Analysis" project repository! In this proj
    - Propose a manpower plan for each time bucket throughout the day, considering calls received during the night shift.
 
 ### Project Contributors
-- Linkedin Profile: [Link to your LinkedIn Profile](https://www.linkedin.com/in/rajrathod54321/)
+- Linkedin Profile: [Link to LinkedIn Profile](https://www.linkedin.com/in/rajrathod54321/)
 - GitHub ID: [@Shraaj1](https://github.com/Shraaj1)
 - Email: rajr65037@gmail.com
 
